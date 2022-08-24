@@ -18,7 +18,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Garamond', sans-serif;
   font-weight: 700;
-  color: #777e86;
+  color: #000000;
 }
 
 a {
@@ -87,8 +87,8 @@ a.btn-cta-secondary, .btn-cta-secondary {
 }
 
 a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):active:focus, .btn-cta-secondary:hover, .btn-cta-secondary:not(:disabled):not(.disabled):active:focus {
-  background: #3893bd;
-  border: 1px solid #3893bd;
+  background: #4ac4fc;
+  border: 1px solid #4ac4fc;
   color: #fff;
   box-shadow: none;
 }
@@ -339,12 +339,12 @@ a.dotted-link:hover {
 }
 
 .experience .item .title .place {
-  color: rgb(34, 33, 33);
+  color: #000000;
   font-weight: normal;
 }
 
 .experience .item .title .place a {
-  color: rgb(59, 58, 58);
+  color: #000000;
 }
 
 .experience .item .title .place a:hover {
@@ -352,7 +352,7 @@ a.dotted-link:hover {
 }
 
 .experience .item .title .year {
-  color: rgb(128, 128, 128);
+  color: #000000;
   font-weight: normal;
 }
 
